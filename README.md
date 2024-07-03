@@ -32,12 +32,3 @@
   
 - **Weekly Sales Trends:** Sundays stood out with an average sale of 919.71 units, contrasting with weekdays (480.89 units on Tuesday to 545.55 units on Monday). Holidays, particularly Mondays like August 15, 2022, showed deviations from typical weekday trends.
 
-### Insights:
-- High sales were prominent on weekends, notably Sundays.
-- Holidays showed potential to boost sales, albeit less frequently among top sales days.
-- Weather analysis highlighted moderate wind speeds and high temperatures as common factors on high sales days.
-
-### Limitations:
-1. 'tsun' feature lacked available data.
-2. 'snow' feature had limited utility with only 15 rows of data.
-3. Data gaps of approximately 37 missing dates were noted within the 'date' feature during the provided period.
